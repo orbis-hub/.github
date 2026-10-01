@@ -1,4 +1,4 @@
-<p align="center"><img src="profile/assets/wordmark-auto.svg" alt="orbis" width="460"></p>
+<p align="center"><img src="/profile/assets/wordmark-auto.svg" alt="orbis" width="460"></p>
 <p align="center"><b>your life, one dashboard.</b></p>
 
 orbis is a self-hosted, modular life manager. one hub on your own hardware, one dashboard you design yourself, and modules for everything you want on it: todos, weather, calendar, smart home, media, whatever someone writes next. web, android/ios and (soon) e-ink displays all talk to the same hub.
