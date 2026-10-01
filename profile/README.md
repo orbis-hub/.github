@@ -8,6 +8,7 @@ orbis is a self-hosted, modular life manager. one hub on your own hardware, one 
 | [**orbis**](https://github.com/orbis-hub/orbis) | the hub (server), the web app, the mobile wrapper, the sdk and the first-party modules |
 | [**registry**](https://github.com/orbis-hub/registry) | `index.json` the hub's module store reads; open a pr to list your module |
 | [**module-template**](https://github.com/orbis-hub/module-template) | github template: a complete module to copy and build on |
+| [**wiki**](https://github.com/orbis-hub/orbis/wiki) | getting started, install, troubleshooting, module developer guide, sdk reference |
 
 ### how it fits together
 
